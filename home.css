@@ -1,0 +1,37 @@
+body {background-color:paleturquoise; color: black; width:150vw; height:150vh; border-color:blue; border-width:20px; border-style:solid;}    
+   
+    p{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+   li {
+     font-family: 'Courier New', Courier, monospace;
+   }
+   h1 {
+     font-family: cursive;
+     color: navy;
+     ;
+   }
+   img {width:60%; margin-left:5%;}
+
+   h5 {
+     color: orange
+   }
+   marquee {
+     color: black;
+     background:greenyellow;
+   }
+
+   p{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+   font-size: larger;
+   }
+
+main{
+    display: flex;
+    width:60rem;
+    height:20rem;
+    margin:20rem 10rem
+    padding:20px;
+}
+ul{
+  list-style: circle;
+}
+a{background-color: red;}
